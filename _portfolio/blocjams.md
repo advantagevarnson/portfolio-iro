@@ -1,9 +1,17 @@
 ---
 layout: post
 title: BlocJams
-feature-img: "img/sample_feature_img.png"
-thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/2030966/blocjams_1x.png"
-short-description: BlocJams for iOS is awesome!
+feature-img: "img/bloc-jams-home.png"
+thumbnail-path: "img/bloc-jams-home.png"
+short-description: Stream your music!
 
 ---
-This is an example of a post which includes a feature image specified in the front matter of the post. The feature image spans the full-width of the page, and is shown with the title on permalink pages.
+
+
+Bloc-Jams is a digital music player, similar to Spotify.
+
+The tag is “A streaming website where one can discover new music.”
+
+It includes a dynamic player bar so the user can change songs regardless of what page they’re currently on.  
+
+After the initial build, I also refactored this using AngularJS to be a S.P.A. (Single Page Application) which has some great benefits as with SPA less server queries are needed, thus increasing the response time of the site.
