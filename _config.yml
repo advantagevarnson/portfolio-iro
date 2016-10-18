@@ -72,4 +72,5 @@ sass:
   sass_dir: _sass
   style: :compressed
 timezone: TIMEZONE
+future: true
 gems: [jekyll-paginate]
