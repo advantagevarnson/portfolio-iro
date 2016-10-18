@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://example.com" # the base hostname & protocol for your site
+url: "https://advantagevarnson.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
@@ -8,11 +8,11 @@ theme:
   title: Aidan Doyle
   avatar: avatar.png
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "A website to showcase my portfolio" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Full Stack Web Developer, Gamer.</h1>
+     <h1>Full Stack Web Developer, Writer.</h1>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
@@ -35,7 +35,7 @@ theme:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter:
+  twitter: "adoyle7"
   wordpress:
   youtube:
 
