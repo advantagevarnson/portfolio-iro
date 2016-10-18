@@ -71,5 +71,5 @@ highlighter: pygments
 sass:
   sass_dir: _sass
   style: :compressed
-
+timezone: TIMEZONE
 gems: [jekyll-paginate]
